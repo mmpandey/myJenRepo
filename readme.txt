@@ -1,1 +1,3 @@
-This is a sample file Jen demo
+DROP SCHEMA public CASCADE;
+CREATE SCHEMA public;
+CREATE EXTENSION IF NOT EXISTS postgis;
